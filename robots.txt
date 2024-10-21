@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://begiliom.github.io/begiliom.txt.gz
+Sitemap: https://begiliom.github.io/app/begiliom.txt.gz
+Sitemap: https://begiliom.github.io/assets/begiliom.txt.gz
+Sitemap: https://begiliom.github.io/css/begiliom.txt.gz
+Sitemap: https://begiliom.github.io/includes/begiliom.txt.gz
+Sitemap: https://begiliom.github.io/item/begiliom.txt.gz
+Sitemap: https://begiliom.github.io/src/begiliom.txt.gz
